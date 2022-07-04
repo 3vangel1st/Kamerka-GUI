@@ -139,6 +139,17 @@
 "upshttpd":"Server: upshttpd",
 "poweragent":"PowerAgent",
 "CS121":"title:'CS121 SNMP/Web Adapter'",
+"yokogawa":"product:yokogawa",
+"Phoenix":"product:Phoenix Contact",
+"Omron":"product:Omron Corporation",
+"Siemens Building":"Siemens Building Technologies Climatix",
+"Modicon":'modicon port:23',
+"Sysmac":'SYSMAC port:2323',
+"CirCarLife":'CirCarLife Scada port:80',
+"BAS SCADA":"BAS SCADA Service",
+"Schneider Electric":"product:Building Operation Automation Server",
+"WATT Router":"SOLAR controls product server",
+"Solar-Log":"SOLAR-Log",
 
 Medical
 "zoll":"http.favicon.hash:-236942626",
