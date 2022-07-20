@@ -260,7 +260,15 @@ Medical
 "image_information_systems":"http.html:'IMAGE Information Systems'",
 "agilent_technologies":"Agilent Technologies port:5025",
 "praxis_portal2":"http.html:'Medigration'",
-"xero_viewer":"http.title:'XERO Viewer'"
+"xero_viewer":"http.title:'XERO Viewer'",
+
+C2 Attacker Infrastructure:
+"CobaltStrike": 'product:"Cobalt Strike Beacon"',
+"MSF": 'ssl:"MetasploitSelfSignedCA"',
+"Covenant": 'ssl:”Covenant” http.component:”Blazor”',
+"Mythic": 'ssl:"Mythic" port:7443',
+"BruteRatel": "http.html_hash:-1957161625"
+             
 
 Excluded:
 title:"pacemaker-id"
