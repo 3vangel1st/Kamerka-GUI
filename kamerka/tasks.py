@@ -448,6 +448,12 @@ coordinates_queries = {"videoiq": 'title:"VideoIQ Camera Login"',
                        "spacelynk": "title:spaceLYnk",
                        }
 
+attacker_infra_queries = {"CobaltStrike": 'product:"Cobalt Strike Beacon"',
+                       "MSF": 'ssl:"MetasploitSelfSignedCA"',
+                       "Covenant": 'ssl:”Covenant” http.component:”Blazor”',
+                       "Mythic": 'ssl:"Mythic" port:7443',
+                       "BruteRatel": "http.html_hash:-1957161625",
+                       }
 
 def get_keys():
     try:
